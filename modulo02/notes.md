@@ -43,3 +43,15 @@
 6. Dependências PRETTIER, ESLINT-CONFIG-PRETTIER e ESLINT-PLUGIN-PRETTIER (Desenvolvimento)
 
 - "yarn eslint --fix PASTA --ext .EXTENSÃO"
+
+7. Dependência SEQUELIZE
+
+- Utilizado para manipulação do banco
+
+8. Dependência BCRYPTJS
+
+- Utilizado para encriptar dados
+
+9. Dependêcia YUP
+
+- Utilizado para validação do schema
